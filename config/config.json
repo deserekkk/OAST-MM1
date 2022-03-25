@@ -1,0 +1,13 @@
+{
+  "multithreaded": true,
+  "variant": "BEZ",
+  "mi_values": [8],
+  "lam_values": [0.5, 0.87, 1.23, 1.6, 1.97, 2.33, 2.7, 3.07, 3.43, 3.8, 4.17, 4.53, 4.9, 5.27, 5.63, 6],
+  "on_values": [40],
+  "off_values": [35],
+  "server_counts": [1],
+  "simulation_repetitions": 40,
+  "time_limit": 3600,
+  "events_limit": 50000,
+  "seed": 123
+}
